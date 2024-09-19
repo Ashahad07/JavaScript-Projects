@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    border: none;
+    outline: none;
+    
+}
+body{
+    background-color: rgb(102, 192, 188);
+}
+.main{
+    width: 90%;
+    max-width: 25em;
+    background-color: white;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    padding: 30px;
+    border-radius: 10px;
+}
+.app-details{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+.image-icon{
+    width: 80px;
+}
+.app-title{
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+label{
+    display: block;
+    font-weight: 600;
+}
+input#amount{
+    font-weight: 400;
+    font-size: 25px;
+    display: block;
+    width: 100%;
+    
+    border-bottom: 2px solid rgb(2, 131, 124);
+    color: rgb(35, 136, 136);
+    margin-bottom: 35px;
+    padding: 0.5em;
+    border: none;
+}
+
+input#amount:focus{
+    border-bottom: 2px solid rgb(2, 131, 124);
+    color: rgb(77, 104, 102);
+}
+
+.dropdown{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+select{
+    width: 100%;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: rgb(102 192 188);
+    color: white;
+}
+select option{
+    background-color: white;
+    color: black;
+}
+
+button{
+    font-size: 20px;
+    width: 100%;
+    background-color: rgb(102, 192, 188);
+    padding: 15px 0;
+    margin-top: 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+#result{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+    background-color: rgb(150, 228, 224);
+    padding: 12px 0;
+}

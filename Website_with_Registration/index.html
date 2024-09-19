@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header class="header">
+      <nav class="nav">
+        <a href="#" class="nav_logo">CodeWithBros</a>
+
+        <ul class="nav_items">
+          <li class="nav_item">
+            <a href="#" class="nav_link">Home</a>
+            <a href="#" class="nav_link">Product</a>
+            <a href="#" class="nav_link">Service</a>
+            <a href="#" class="nav_link">Contact</a>
+          </li>
+        </ul>
+
+        <button class="button" id="form-open">Login</button>
+      </nav>
+    </header>
+    <section class="home">
+      <div class="form_container">
+        <i class="ri-close-large-fill form_close"></i>
+
+        <!-- login -->
+        <div class="form login_form">
+          <form action="#">
+            <h2>Login</h2>
+            <div class="input_box">
+              <input
+                type="email"
+                name=""
+                id="email"
+                placeholder="Enter your email"
+                required
+              />
+              <i class="ri-mail-line email"></i>
+            </div>
+            <div class="input_box">
+              <input
+                type="password"
+                name=""
+                id="password"
+                placeholder="Enter your password "
+                required
+              />
+              <i class="ri-lock-2-line password"></i>
+              <i class="ri-eye-off-line pw_hide"></i>
+            </div>
+            <div class="option_field">
+              <span class="checkbox">
+                <input type="checkbox" name="" id="check" />
+                <label for="check">Remember me</label>
+              </span>
+              <a href="" class="forgot_pw">Forgot password ?</a>
+            </div>
+            <button class="button">Login Now</button>
+            <div class="login_signup">
+              Don't have an account? <a href="#" id="signup">Signup</a>
+            </div>
+          </form>
+        </div>
+
+        <!-- signup -->
+        <div class="form signup_form">
+          <form action="#">
+            <h2>Signup</h2>
+            <div class="input_box">
+              <input
+                type="email"
+                name=""
+                id="email"
+                placeholder="Enter your email"
+                required
+              />
+              <i class="ri-mail-line email"></i>
+            </div>
+            <div class="input_box">
+              <input
+                type="password" name="" id="CreatePassword" placeholder="Create password" required />
+              <i class="ri-lock-2-line password"></i>
+              <i class="ri-eye-off-line pw_hide"></i>
+            </div>
+            <div class="input_box">
+              <input
+                type="password" name="" id="ConfirmPassword" placeholder="Confirm password" required />
+              <i class="ri-lock-2-line password"></i>
+              <i class="ri-eye-off-line pw_hide"></i>
+              <span id="error-message" class="error-message"></span>
+            </div>
+            <button  class="button" onclick="validatePasswords()">Signup Now</button>
+            <div class="login_signup">
+              Already have an account? <a href="#" id="login">Login</a>
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>
+ 

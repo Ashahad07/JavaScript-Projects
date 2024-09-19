@@ -1,0 +1,242 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+li a {
+  text-decoration: none;
+  padding: 15px;
+}
+.header {
+  position: absolute;
+  height: 80px;
+  width: 100%;
+  z-index: 100;
+  /* padding: 0 20px; */
+}
+.nav {
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto;
+}
+.nav,
+.nav_items {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+li {
+  list-style: none;
+  /* padding: 12px; */
+}
+.nav_logo {
+  font-size: 25px;
+}
+.nav_item {
+  column-gap: 25px;
+}
+.nav_link {
+  font-size: 23px;
+}
+.nav_link:hover {
+  color: white;
+}
+.button {
+  padding: 6px 24px;
+  border: 2px solid white;
+  background: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+}
+/* .button:hover{
+   background: white; 
+    color: #000; 
+}  */
+.button,
+.nav_link,
+.nav_logo {
+  color: white;
+}
+.button:active {
+  transform: scale(0.98);
+}
+.form_close {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  padding: 5px;
+  border-radius: 50%;
+  color: #000;
+  font-size: 22px;
+  opacity: 0.7;
+  cursor: pointer;
+}
+.form_close:hover {
+  background: #c5c1c1;
+}
+.form_close:active {
+  transform: scale(0.98);
+}
+.error-message{
+  color: red;
+  font-size: 15px;
+}
+.home {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  background-image: url("bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.home::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 100;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.5s ease-out;
+}
+.home.show::before {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.form_container {
+  position: absolute;
+  top: 50%;
+  max-width: 320px;
+  width: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1.2);
+  z-index: 101;
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.2s ease-in;
+}
+
+.home.show .form_container {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translate(-50%, -50%) scale(1);
+}
+.signup_form {
+  display: none;
+}
+
+.form_container.active .signup_form {
+  display: block;
+}
+.form_container.active .login_form {
+  display: none;
+}
+
+.from_close {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  color: #0b0217;
+  font-size: 22px;
+  opacity: 0.7;
+  cursor: pointer;
+}
+.form_container h2 {
+  font-size: 22px;
+  color: #0b0217;
+  text-align: center;
+}
+
+.input_box {
+  position: relative;
+  margin-top: 30px;
+  width: 100%;
+  height: 40px;
+}
+.input_box input {
+  height: 100%;
+  width: 85%;
+  border: none;
+  outline: none;
+  padding: 0 30px;
+  color: #333;
+  border-bottom: 1.5px solid rgb(107, 104, 104);
+}
+.input_box input:focus {
+  border-color: #7d2ae8;
+}
+.input_box i {
+  position: absolute;
+  top: 50%;
+  color: #333;
+  transform: translateY(-50%);
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.input_box i.email,
+.input_box i.password {
+  left: 0px;
+}
+.input_box input:focus ~ i.email,
+.input_box input:focus ~ i.password,
+.input_box input:focus ~ i.pw_hide {
+  color: #7d2ae8;
+}
+.input_box i.pw_hide {
+  right: 0;
+  font-size: 19px;
+  cursor: pointer;
+}
+.input_box i.pw_hide:hover {
+  background-color: rgb(211, 211, 205);
+}
+.option_field {
+  margin-top: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.form_container {
+  color: #7d2ae8;
+  font-size: 12px;
+}
+.form_container a:hover {
+  text-decoration: underline;
+}
+.checkbox {
+  display: flex;
+  column-gap: 8px;
+  white-space: nowrap;
+  font-size: 12px;
+}
+.checkbox input {
+  accent-color: #7d2ae8;
+}
+.checkbox label {
+  font-size: 12px;
+  cursor: pointer;
+  user-select: none;
+  color: #0b0217;
+}
+.form_container .button {
+  background: #7d2ae8;
+  margin-top: 30px;
+  width: 100%;
+  padding: 10px 0;
+  border-radius: 10px;
+}
+.login_signup {
+  font-size: 15px;
+  text-align: center;
+  margin-top: 15px;
+  color: #0b0217;
+}
