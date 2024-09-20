@@ -12,7 +12,7 @@
 ## Live Demo
 Check out the live demo - 
 
-## [Calculator](https://ashahad07.github.io/JavaScript---Project/Calculator/)
+## [Calculator](https://ashahad07.github.io/JavaScript-Projects/Calculator/)
 
 ## [Digital Clock](https://ashahad07.github.io/JavaScript---Project/Digital_Clock/)
 
