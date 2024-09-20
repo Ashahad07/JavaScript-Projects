@@ -95,6 +95,12 @@ body {
   color: #bbb;
   margin: 0;
 }
+.user-info p.bio {
+  font-size: 0.9rem;
+  color: #5e5e5e;
+  margin: 0;
+}
+
 
 .user-info ul {
   list-style-type: none;
