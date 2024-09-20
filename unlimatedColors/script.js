@@ -8,7 +8,8 @@ const randomColor = function () {
         
     }
     return color
-}
+} 
+
 
 console.log(randomColor())
 
