@@ -14,7 +14,7 @@ Check out the live demo -
 
 ## [Calculator](https://ashahad07.github.io/JavaScript-Projects/Calculator/)
 
-## [Digital Clock](https://ashahad07.github.io/JavaScript---Project/Digital_Clock/)
+## [Digital Clock](https://ashahad07.github.io/JavaScript-Projectst/DigitalClock/)
 
 ## [Drum kit](https://ashahad07.github.io/JavaScript---Project/Drum_kit/)
 
