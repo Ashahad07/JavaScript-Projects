@@ -12,27 +12,35 @@
 ## Live Demo
 Check out the live demo - 
 
-## [Calculator](https://ashahad07.github.io/JavaScript---Project/Calculator/)
+## [BMI-Calculator](https://ashahad07.github.io/JavaScript-Projects/BMI-Calculator/)
 
-## [Digital Clock](https://ashahad07.github.io/JavaScript---Project/Digital_Clock/)
+## [Calculator](https://ashahad07.github.io/JavaScript-Projects/Calculator/)
 
-## [Drum kit](https://ashahad07.github.io/JavaScript---Project/Drum_kit/)
+## [Currency convertor](https://ashahad07.github.io/JavaScript-Projects/currency_convertor/)
 
-## [Login Form](https://ashahad07.github.io/JavaScript---Project/Login_Form/)
+## [Digital-Clock](https://ashahad07.github.io/JavaScript-Projectst/Digital-Clock/)
 
-## [RandomPasswordGenerator](https://ashahad07.github.io/JavaScript---Project/RandomPasswordGenerator/)
+## [Digital_Clock](https://ashahad07.github.io/JavaScript-Projects/Digital_Clock/)
 
-## [Show-Hide Password](https://ashahad07.github.io/JavaScript---Project/Show-Hide-Password/)
+## [Drum kit](https://ashahad07.github.io/JavaScript-Projects/Drum_kit/)
 
-## [TODO list](https://ashahad07.github.io/JavaScript---Project/TODO_list/)
+## [GuessTheNumber](https://ashahad07.github.io/JavaScript-Projects/GuessTheNumber/)
 
-## [Website with Registretion](https://ashahad07.github.io/JavaScript---Project/Website_with_Registration/)
+## [Login Form](https://ashahad07.github.io/JavaScript-Projects/Login_Form/)
 
-## [currency convertor](https://ashahad07.github.io/JavaScript---Project/currency_convertor/)
+## [RandomPasswordGenerator](https://ashahad07.github.io/JavaScript-Projects/RandomPasswordGenerator/)
 
-## [pop-up](https://ashahad07.github.io/JavaScript---Project/pop-up/)
+## [Show-Hide Password](https://ashahad07.github.io/JavaScript-Projects/Show-Hide-Password/)
+
+## [TODO list](https://ashahad07.github.io/JavaScript-Projects/TODO_list/)
+
+## [Website with Registretion](https://ashahad07.github.io/JavaScript-Projects/Website_with_Registration/)
+
+## [pop-up](https://ashahad07.github.io/JavaScript-Projects/pop-up/)
 
 
+
+## [Github-Profile](https://ashahad07.github.io/JavaScript-Projects/Github-Profile/)
 
 ## Installation
 
