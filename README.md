@@ -12,27 +12,35 @@
 ## Live Demo
 Check out the live demo - 
 
+## [BMI-Calculator](https://ashahad07.github.io/JavaScript-Projects/BMI-Calculator/)
+
 ## [Calculator](https://ashahad07.github.io/JavaScript-Projects/Calculator/)
 
-## [Digital Clock](https://ashahad07.github.io/JavaScript-Projectst/DigitalClock/)
+## [Currency convertor](https://ashahad07.github.io/JavaScript-Projects/currency_convertor/)
 
-## [Drum kit](https://ashahad07.github.io/JavaScript---Project/Drum_kit/)
+## [Digital-Clock](https://ashahad07.github.io/JavaScript-Projectst/Digital-Clock/)
 
-## [Login Form](https://ashahad07.github.io/JavaScript---Project/Login_Form/)
+## [Digital_Clock](https://ashahad07.github.io/JavaScript-Projects/Digital_Clock/)
 
-## [RandomPasswordGenerator](https://ashahad07.github.io/JavaScript---Project/RandomPasswordGenerator/)
+## [Drum kit](https://ashahad07.github.io/JavaScript-Projects/Drum_kit/)
 
-## [Show-Hide Password](https://ashahad07.github.io/JavaScript---Project/Show-Hide-Password/)
+## [GuessTheNumber](https://ashahad07.github.io/JavaScript-Projects/GuessTheNumber/)
 
-## [TODO list](https://ashahad07.github.io/JavaScript---Project/TODO_list/)
+## [Login Form](https://ashahad07.github.io/JavaScript-Projects/Login_Form/)
 
-## [Website with Registretion](https://ashahad07.github.io/JavaScript---Project/Website_with_Registration/)
+## [RandomPasswordGenerator](https://ashahad07.github.io/JavaScript-Projects/RandomPasswordGenerator/)
 
-## [currency convertor](https://ashahad07.github.io/JavaScript---Project/currency_convertor/)
+## [Show-Hide Password](https://ashahad07.github.io/JavaScript-Projects/Show-Hide-Password/)
 
-## [pop-up](https://ashahad07.github.io/JavaScript---Project/pop-up/)
+## [TODO list](https://ashahad07.github.io/JavaScript-Projects/TODO_list/)
+
+## [Website with Registretion](https://ashahad07.github.io/JavaScript-Projects/Website_with_Registration/)
+
+## [pop-up](https://ashahad07.github.io/JavaScript-Projects/pop-up/)
 
 
+
+## [Github-Profile](https://ashahad07.github.io/JavaScript-Projects/Github-Profile/)
 
 ## Installation
 
