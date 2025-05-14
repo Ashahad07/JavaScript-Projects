@@ -18,6 +18,8 @@ Check out the live demo -
 
 ## [Currency convertor](https://ashahad07.github.io/JavaScript-Projects/CurrencyConvertor/)
 
+## [Currency convertor](https://ashahad07.github.io/JavaScript-Projects/CurrencyConvertor/)
+
 ## [Color_Changer](https://ashahad07.github.io/JavaScript-Projects/Color_Changer/)
 
 ## [Digital-Clock](https://ashahad07.github.io/JavaScript-Projectst/Digital-Clock/)
