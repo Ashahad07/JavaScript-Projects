@@ -18,7 +18,7 @@ Check out the live demo -
 
 ## [Currency convertor](https://ashahad07.github.io/JavaScript-Projects/CurrencyConvertor/)
 
-## [Currency convertor](https://ashahad07.github.io/JavaScript-Projects/CurrencyConvertor/)
+## [Cynthia Website](https://ashahad07.github.io/JavaScript-Projects/Cynthia_Website/)
 
 ## [Color_Changer](https://ashahad07.github.io/JavaScript-Projects/Color_Changer/)
 
@@ -41,6 +41,8 @@ Check out the live demo -
 ## [RandomPasswordGenerator](https://ashahad07.github.io/JavaScript-Projects/RandomPasswordGenerator/)
 
 ## [Show-Hide Password](https://ashahad07.github.io/JavaScript-Projects/Show-Hide-Password/)
+
+## [Show-Hide Password](https://ashahad07.github.io/JavaScript-Projects/Sidcup-family-golf/)
 
 ## [TODO list](https://ashahad07.github.io/JavaScript-Projects/TODO_list/)
 
