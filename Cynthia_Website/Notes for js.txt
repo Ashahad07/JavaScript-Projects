@@ -1,0 +1,7 @@
+smooth scrolling:- ✅
+    -attach locomotive scroll min js CDN 
+    -attach loco scroll css form github 
+    -some code from loco github for js 
+
+gsap
+    -attach gsap
